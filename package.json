@@ -1,0 +1,23 @@
+{
+  "name": "rune-website",
+  "version": "0.0.1",
+  "description": "The website code for https://www.runemc.net/",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuneMinecraft/Rune-Website.git"
+  },
+  "author": "dank1234",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuneMinecraft/Rune-Website/issues"
+  },
+  "homepage": "https://github.com/RuneMinecraft/Rune-Website#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
